@@ -20,4 +20,4 @@ if __name__ == '__main__':
     elif choice == 'c':
         moon_travel.run()
     else:
-        print('no possible')
+        print('not possible')

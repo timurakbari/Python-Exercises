@@ -1,4 +1,4 @@
-from minigames.Minigame import Minigame
+from minigame_collection.minigames.Minigame import Minigame
 
 
 class BdayGreetings(Minigame):
